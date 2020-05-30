@@ -2,4 +2,4 @@
 
 ## Approach 1
 
-I created a python file to set up the camera, and encoded a string as an html file
+Setup a camera viewer on a rapsberry pi using the tools provided by [PiCamera](http://picamera.readthedocs.io/en/latest/recipes2.html#web-streaming). This approach is taken using Python which presents the data on HTML.
